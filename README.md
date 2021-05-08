@@ -1,6 +1,4 @@
 # Nikhil Portfolio
-My first portfolio
-
 
 #[ Practicum Project - Question Answering ](https://github.com/iiit-msit/QuestionAnswering)
 **Question Generation**
