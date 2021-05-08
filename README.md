@@ -1,4 +1,5 @@
 # Nikhil Portfolio
+Contact Info: +91 7382508805 | Mail: nikhillinga670@gmail.com                
 
 #[ Practicum Project - Question Answering ](https://github.com/iiit-msit/QuestionAnswering)
 **Question Generation**
